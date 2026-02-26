@@ -54,7 +54,7 @@ At the end of the month, Bina Kumari generates **Reports**.
 Khamari doesn't just store data; it provides **insights** that help Bina Kumari grow her business.
 
 ### Chapter 7: Security & Sharing (Export, Import & Multi-User)
-Bina Kumari wanted her son to help manage the farm from the city. She went to **Member Management** and simply added her son's email. When her son logged in, "Bina Kumari’s Green Haven" appeared on her screen instantly.
+Bina Kumari wanted her son to help manage the farm from the city. She went to **Member Management** and simply added her son's email. When her son logged in, "Bina Kumari’s Green Haven" appeared on his screen instantly.
 
 And for peace of mind? Bina Kumari uses the **Export/Import** feature. With one tap, she generates a JSON backup of her entire farm data and saves it to her Google Drive. Her data is as safe as her land.
 
