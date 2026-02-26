@@ -83,7 +83,7 @@ And for peace of mind? Laxmi uses the **Export/Import** feature. With one tap, h
 <div align="center">
   <img src="assets/logo.svg" alt="Khamari Logo" width="30" height="30">
   <p><strong>Khamari v1.0.0</strong><br>
-  Built for the farmers of Odisha | ଓଡ଼ିଶାର ଚାଷୀଙ୍କ ପାଇଁ ନିର୍ମିତ<br>
+  Built for the farmers of Odisha<br>
   For support, contact: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
 </div>
