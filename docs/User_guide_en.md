@@ -77,6 +77,7 @@ And for peace of mind? Bina Kumari uses the **Export/Import** feature. With one 
 **Khamari** is more than an app. It is your partner in growth. 
 *Start your digital farming journey today!*
 
+[Privacy Policy](privacy_policy.md)
 
 ---
 <br>
@@ -86,5 +87,4 @@ And for peace of mind? Bina Kumari uses the **Export/Import** feature. With one 
   Built for the farmers of Odisha<br>
   For support, contact: <a href="mailto:bhagabatiprasad@gmail.com">bhagabatiprasad@gmail.com</a>
   </p>
-  [Privacy Policy](privacy_policy.md)
 </div>
