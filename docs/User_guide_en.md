@@ -5,7 +5,8 @@
 </div>
 
 ---
-[ଓଡିଆ ରେ ପଢନ୍ତୁ](User_guide_en.md)
+[ଓଡିଆ ରେ ପଢନ୍ତୁ](index.md)
+
 # Khamari: The Digital Heart of Your Farm 🌾
 
 Welcome to the official guide for **Khamari**—an integrated farm management system designed to bring the power of the cloud to the soil of India.
@@ -17,29 +18,56 @@ This guide isn't just a manual; it's the story of how **Bina Kumari**, a modern 
 ## 📖 The Story: A Day in the Life of a Khamari Farmer
 
 ### Chapter 1: The New Identity (Farm Setup & Registration)
-Bina Kumari used to worry that her farm lacked a professional identity. When she first opened Khamari, she was greeted in both **Odia and English**. She signed in securely with her **Google account**—no new passwords to remember.
+Bina Kumari used to worry that her farm lacked a professional identity. When she first opened Khamari, she was greeted in both **Odia and English**. She signed in securely with her **Google account**.
 
-She was prompted to set up her **Farm Profile**. She entered "Bina Kumari’s Green Haven" and a tagline that resonates with her soul: *“ଚାଷର ସାରଥି ଖମାରର ଉନ୍ନତି” (The charioteer of farming, the progress of the farm)*. She even picked a logo from her gallery, which the app automatically resized and synced to the cloud. Now, every staff member and family member she invites sees the same beautiful branding.
+She was prompted to set up her **Farm Profile**. She entered "Bina Kumari's Green Haven" and a tagline that resonates with her soul: *"The Charioteer of Farming"*.
+
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 1.png" alt="Farm Setup and Registration - Google Sign-In and Profile Creation" width="300">
+  <p><em>Farm Profile Setup with Bilingual Support</em></p>
+</div>
 
 ### Chapter 2: The Command Center (Dashboard)
-Every morning, Bina Kumari checks her **Dashboard**. It’s her "Bird’s Eye View." At a glance, she sees:
+Every morning, Bina Kumari checks her **Dashboard**. It's her "Bird's Eye View." At a glance, she sees:
 *   **Today's Yield:** How many liters of milk were produced this morning.
 *   **Finance Status:** A quick summary of her income vs. expenses for the month.
 *   **Pending Activities:** What needs to be done today? Are the cows due for vaccination? Is it time to water the mushroom beds?
 
 The Dashboard ensures Bina Kumari is never reactive; she is always ahead of her farm's needs.
 
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 2.png" alt="Dashboard - Daily Overview and Key Metrics" width="300">
+  <p><em>Dashboard: Bird's Eye View of Your Farm</em></p>
+</div>
+
 ### Chapter 3: The Living Records (Livestock, Plants & Allied)
 Khamari is "Integrated," just like Bina Kumari's farm. She tracks three main pillars:
 
-1.  **Livestock (ପଶୁପାଳନ):** Bina Kumari maintains detailed digital cards for her **Cows, Sheep, and Poultry**. She records their breed, health status, and even their lineage (Who is the mother of this calf?). If she adds a new cow similar to an existing one, she simply uses the **Clone Record** feature to save time.
+1.  **Livestock (ପଶୁପାଳନ):** Bina Kumari maintains detailed digital cards for her **Cows, Sheep, and Poultry**. She records their breed, health status, and even their lineage (Who is the mother? Who is the father?). Every veterinary visit, vaccination, and health update is logged.
+
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 3.png" alt="Livestock Management - Animal Records and Tracking" width="300">
+  <p><em>Livestock: Digital Records for Cows, Sheep & Poultry</em></p>
+</div>
+
 2.  **Plants (ଉଦ୍ଭିଦ):** From field crops to her fruit orchard (Horticulture) and timber trees (Plantation), Bina Kumari knows exactly when she planted what and where.
-3.  **Allied Farming (ସହଯୋଗୀ ଚାଷ):** Bina Kumari’s farm is diverse. She uses Khamari to track her **Mushroom batches (Fungiculture)** and **Beehives (Apiculture)**. She even manages her **Vermicompost units**, ensuring nothing on the farm goes to waste.
+
+3.  **Allied Farming (ସହଯୋଗୀ ଚାଷ):** Bina Kumari's farm is diverse. She uses Khamari to track her **Mushroom batches (Fungiculture)** and **Beehives (Apiculture)**. She even manages her **Fish Ponds (Aquaculture)** with ease.
+
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 4.png" alt="Integrated Tracking - Plants, Livestock, and Allied Farming" width="300">
+  <p><em>Integrated Tracking: All Farm Activities in One Place</em></p>
+</div>
 
 ### Chapter 4: The Team (Staff Management & Labor)
 Bina Kumari doesn't work alone. She has a team of dedicated workers. In the **Staff Management** section, she keeps a directory of her team.
 *   **Work Logs:** Every evening, she logs the hours her staff worked. 
 *   **Labor Costs:** The app automatically calculates the labor cost based on their hourly rates, linking these costs directly to her farm's financial reports.
+
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 5.png" alt="Staff Management - Work Logs and Labor Tracking" width="300">
+  <p><em>Staff Management: Track Work Hours and Labor Costs</em></p>
+</div>
 
 ### Chapter 5: The Transparent Ledger (Expense Tracking)
 Finance used to be a headache of lost receipts. Now, every time Bina Kumari buys feed or sells milk, she adds a **Transaction**.
@@ -47,16 +75,22 @@ Finance used to be a headache of lost receipts. Now, every time Bina Kumari buys
 *   **Multiple Accounts:** She tracks whether the money came from her **Cash box, Bank account, or UPI**.
 *   **The Ledger:** A chronological history of every rupee that enters or leaves the farm.
 
+<div align="center">
+  <img src="assets/Samsung Galaxy S21 Ultra Screenshot 6.png" alt="Expense Tracking - Ledger and Financial Records" width="300">
+  <p><em>Transparent Ledger: Track Every Rupee</em></p>
+</div>
+
 ### Chapter 6: Knowledge is Power (Reports)
 At the end of the month, Bina Kumari generates **Reports**.
 *   **Balance Sheet:** She sees exactly which division (Livestock vs. Crops) is most profitable.
 *   **Head-wise Summary:** She realizes she is spending too much on a specific type of fertilizer and decides to switch to her own organic inputs.
+
 Khamari doesn't just store data; it provides **insights** that help Bina Kumari grow her business.
 
 ### Chapter 7: Security & Sharing (Export, Import & Multi-User)
-Bina Kumari wanted her son to help manage the farm from the city. She went to **Member Management** and simply added her son's email. When her son logged in, "Bina Kumari’s Green Haven" appeared on his screen instantly.
+Bina Kumari wanted her son to help manage the farm from the city. She went to **Member Management** and simply added her son's email. When her son logged in, "Bina Kumari's Green Haven" appeared on his device.
 
-And for peace of mind? Bina Kumari uses the **Export/Import** feature. With one tap, she generates a JSON backup of her entire farm data and saves it to her Google Drive. Her data is as safe as her land.
+And for peace of mind? Bina Kumari uses the **Export/Import** feature. With one tap, she generates a JSON backup of her entire farm data and saves it to her Google Drive. Her data is as safe as her locked storeroom.
 
 ---
 
